@@ -1,2 +1,4 @@
-# DashLearner
-Plugin Dashboard Learner para Moodle
+AnalyticsGraphs
+===============
+
+Learning analytics Moodle plugin - graphs to help teachers.
